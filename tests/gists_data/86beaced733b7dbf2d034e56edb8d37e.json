@@ -1,0 +1,52 @@
+{
+  "url": "https://api.github.com/gists/86beaced733b7dbf2d034e56edb8d37e",
+  "forks_url": "https://api.github.com/gists/86beaced733b7dbf2d034e56edb8d37e/forks",
+  "commits_url": "https://api.github.com/gists/86beaced733b7dbf2d034e56edb8d37e/commits",
+  "id": "86beaced733b7dbf2d034e56edb8d37e",
+  "git_pull_url": "https://gist.github.com/86beaced733b7dbf2d034e56edb8d37e.git",
+  "git_push_url": "https://gist.github.com/86beaced733b7dbf2d034e56edb8d37e.git",
+  "html_url": "https://gist.github.com/86beaced733b7dbf2d034e56edb8d37e",
+  "files": {
+    "expander.py": {
+      "filename": "expander.py",
+      "type": "application/x-python",
+      "language": "Python",
+      "raw_url": "https://gist.githubusercontent.com/gvanrossum/86beaced733b7dbf2d034e56edb8d37e/raw/73c8ce01c64ad43e38cb17d84193bc691c6e35f2/expander.py",
+      "size": 1841
+    },
+    "output.txt": {
+      "filename": "output.txt",
+      "type": "text/plain",
+      "language": "Text",
+      "raw_url": "https://gist.githubusercontent.com/gvanrossum/86beaced733b7dbf2d034e56edb8d37e/raw/8a82c80a081e3f51db12089e4b9c0d32d174e562/output.txt",
+      "size": 3027
+    }
+  },
+  "public": true,
+  "created_at": "2016-07-30T19:04:22Z",
+  "updated_at": "2016-08-02T17:05:33Z",
+  "description": "Expand variadic type variables",
+  "comments": 2,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/86beaced733b7dbf2d034e56edb8d37e/comments",
+  "owner": {
+    "login": "gvanrossum",
+    "id": 2894642,
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2894642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gvanrossum",
+    "html_url": "https://github.com/gvanrossum",
+    "followers_url": "https://api.github.com/users/gvanrossum/followers",
+    "following_url": "https://api.github.com/users/gvanrossum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvanrossum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gvanrossum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvanrossum/subscriptions",
+    "organizations_url": "https://api.github.com/users/gvanrossum/orgs",
+    "repos_url": "https://api.github.com/users/gvanrossum/repos",
+    "events_url": "https://api.github.com/users/gvanrossum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gvanrossum/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "truncated": false
+}

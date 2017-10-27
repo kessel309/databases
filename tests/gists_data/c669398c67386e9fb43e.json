@@ -1,0 +1,45 @@
+{
+  "url": "https://api.github.com/gists/c669398c67386e9fb43e",
+  "forks_url": "https://api.github.com/gists/c669398c67386e9fb43e/forks",
+  "commits_url": "https://api.github.com/gists/c669398c67386e9fb43e/commits",
+  "id": "c669398c67386e9fb43e",
+  "git_pull_url": "https://gist.github.com/c669398c67386e9fb43e.git",
+  "git_push_url": "https://gist.github.com/c669398c67386e9fb43e.git",
+  "html_url": "https://gist.github.com/c669398c67386e9fb43e",
+  "files": {
+    "gistfile1.md": {
+      "filename": "gistfile1.md",
+      "type": "text/plain",
+      "language": "Markdown",
+      "raw_url": "https://gist.githubusercontent.com/gvanrossum/c669398c67386e9fb43e/raw/ad50b582e7b46fa5222c4e098452bce78be92dc5/gistfile1.md",
+      "size": 10162
+    }
+  },
+  "public": true,
+  "created_at": "2014-12-05T21:01:50Z",
+  "updated_at": "2015-08-29T14:10:51Z",
+  "description": "",
+  "comments": 0,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/c669398c67386e9fb43e/comments",
+  "owner": {
+    "login": "gvanrossum",
+    "id": 2894642,
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2894642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gvanrossum",
+    "html_url": "https://github.com/gvanrossum",
+    "followers_url": "https://api.github.com/users/gvanrossum/followers",
+    "following_url": "https://api.github.com/users/gvanrossum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvanrossum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gvanrossum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvanrossum/subscriptions",
+    "organizations_url": "https://api.github.com/users/gvanrossum/orgs",
+    "repos_url": "https://api.github.com/users/gvanrossum/repos",
+    "events_url": "https://api.github.com/users/gvanrossum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gvanrossum/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "truncated": false
+}

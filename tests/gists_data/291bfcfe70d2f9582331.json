@@ -1,0 +1,52 @@
+{
+  "url": "https://api.github.com/gists/291bfcfe70d2f9582331",
+  "forks_url": "https://api.github.com/gists/291bfcfe70d2f9582331/forks",
+  "commits_url": "https://api.github.com/gists/291bfcfe70d2f9582331/commits",
+  "id": "291bfcfe70d2f9582331",
+  "git_pull_url": "https://gist.github.com/291bfcfe70d2f9582331.git",
+  "git_push_url": "https://gist.github.com/291bfcfe70d2f9582331.git",
+  "html_url": "https://gist.github.com/291bfcfe70d2f9582331",
+  "files": {
+    "output": {
+      "filename": "output",
+      "type": "text/plain",
+      "language": null,
+      "raw_url": "https://gist.githubusercontent.com/gvanrossum/291bfcfe70d2f9582331/raw/013cff0dd850c25cf5afb5389bf12b4d19f1723c/output",
+      "size": 498
+    },
+    "trans.py": {
+      "filename": "trans.py",
+      "type": "application/x-python",
+      "language": "Python",
+      "raw_url": "https://gist.githubusercontent.com/gvanrossum/291bfcfe70d2f9582331/raw/cb31d4ba70c1afd37af9a5c6e0dd4c53f09fb68c/trans.py",
+      "size": 833
+    }
+  },
+  "public": true,
+  "created_at": "2014-11-27T06:03:45Z",
+  "updated_at": "2015-08-29T14:10:24Z",
+  "description": "Transaction example",
+  "comments": 0,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/291bfcfe70d2f9582331/comments",
+  "owner": {
+    "login": "gvanrossum",
+    "id": 2894642,
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2894642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gvanrossum",
+    "html_url": "https://github.com/gvanrossum",
+    "followers_url": "https://api.github.com/users/gvanrossum/followers",
+    "following_url": "https://api.github.com/users/gvanrossum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gvanrossum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gvanrossum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gvanrossum/subscriptions",
+    "organizations_url": "https://api.github.com/users/gvanrossum/orgs",
+    "repos_url": "https://api.github.com/users/gvanrossum/repos",
+    "events_url": "https://api.github.com/users/gvanrossum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gvanrossum/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "truncated": false
+}
